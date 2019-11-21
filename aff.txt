@@ -1,0 +1,1462 @@
+﻿Harvard University
+University of Chicago
+Massachusetts Institute of Technology (MIT)
+Columbia University
+Toulouse School of Economics (TSE)
+Yale University
+Peter G. Peterson Institute for International Economics (IIE)
+University of California-Berkeley
+University College London (UCL)
+London School of Economics (LSE)
+New York University (NYU)
+Stanford University
+Michigan State University
+University of Southern California
+Princeton University
+Vrije Universiteit Amsterdam
+Brookings Institution
+Arizona State University
+Dartmouth College
+University of Pretoria
+Boston College
+Ohio State University
+University of Washington
+Duke University
+Handelshögskolan i Stockholm
+Asia University
+Northwestern University
+Brown University
+Georgetown University
+Center for Research in Economics, Management and the Arts (CREMA)
+Universität Zürich
+Barcelona Graduate School of Economics (Barcelona GSE)
+University of Maryland
+Centro de Estudios Monetarios y Financieros (CEMFI)
+African Governance and Development Institute (AGDI)
+University of Pennsylvania
+University of California-San Diego (UCSD)
+Boston University
+Universität Bern, Institut für Soziologie (University of Bern, Institute of Sociology)
+World Bank Group
+University of California-Irvine
+Københavns Universitet
+SKEMA Business School
+Università Commerciale Luigi Bocconi
+University of California-Davis
+Centre for Economic Policy Research (CEPR)
+ifo Institut - Leibniz-Institut für Wirtschaftsforschung an der Universität München e.V.
+National Bureau of Economic Research (NBER)
+Bank for International Settlements (BIS)
+National Research University Higher School of Economics
+Fudan University
+Washington University in St. Louis
+Oxford University
+University of Wisconsin-Madison
+UNSW Sydney
+University of Sussex
+Federal Reserve Bank of Dallas
+City University
+Federal Reserve Board (Board of Governors of the Federal Reserve System)
+Carnegie Mellon University
+Institute of Labor Economics (IZA)
+European Central Bank
+University of California-Los Angeles (UCLA)
+University of Warwick
+University of Michigan
+Rutgers University-New Brunswick
+Heriot-Watt University
+United Nations University-Maastricht Economic Research Institute of Innovation and Technology (UNU-MERIT)
+GiveWell (David Roodman)
+Çağ Üniversitesi
+Quantitative Financial Strategies
+Johannes-Kepler-Universität Linz
+Istituto Einaudi per l'Economia e la Finanza (EIEF)
+Universität Konstanz
+Université Catholique de Louvain
+University of Western Ontario
+Tel Aviv University
+Pennsylvania State University
+Max-Planck-Gesellschaft
+Universidad de Navarra
+University of York
+Johns Hopkins University
+The Graduate Institute of International and Development Studies
+Vanderbilt University
+University of Queensland
+Indiana University
+Chapman University
+Eidgenössische Technische Hochschule Zürich (ETHZ)
+Motu: Economic &amp; Public Policy Research
+Paris School of Economics
+University of British Columbia
+briq Institute on Behavior and Inequality
+Queen's University
+Monash University
+Trinity College Dublin
+University of Colorado
+Université de Genève
+Citigroup Global Markets Inc. (Citigroup Global Markets Inc.)
+University of California-Santa Barbara (UCSB)
+Victoria University of Wellington
+Rijksuniversiteit Groningen
+Centro Studi di Economia e Finanza (CSEF)
+University of Texas-Austin
+University of Adelaide
+Syracuse University
+Federal Reserve Bank of San Francisco
+Imperial College
+Beijing Institute of Technology
+University of Sydney
+Cornell University
+University of Edinburgh
+Max Planck Institut fuer Bildungsforschung (Max Plnck Institute for Human Development)
+University of Wisconsin
+University of Cambridge
+California Institute of Technology
+City University of New York (CUNY)
+University of Wyoming
+Scuola Superiore Sant'Anna
+University of Toronto
+Federal Reserve Bank of New York
+University of Nottingham
+DIW Berlin (Deutsches Institut für Wirtschaftsforschung)
+Korea University
+European University Institute
+Erasmus Universiteit Rotterdam
+London Business School (LBS)
+University of Rochester
+University of Minnesota
+University of Strathclyde
+KU Leuven
+Sciences Po
+Georgia State University
+Tel Aviv University, School of Mathematical Sciences
+Hans Böckler Stiftung
+Stockholms Universitet
+Leuphana Universität Lüneburg
+University of Virginia
+Université Libre de Bruxelles
+University of Piraeus
+Universität Duisburg-Essen
+Ruprecht-Karls-Universität Heidelberg
+Estima
+University of Manchester
+Jacksonville University
+Federal Reserve Bank of Chicago
+Interdisciplinary Center (IDC)
+McGill University
+George Washington University
+Institutet för Näringslivsforskning (IFN)
+Federal Reserve Bank of Atlanta
+Fordham University
+Instituto Politécnico Nacional
+University of California-Riverside
+Deakin University
+University of Technology Sydney
+University of Texas-Dallas
+Brandeis University
+Central University of Finance and Economics (CUFE)
+University of East Anglia
+Federal Reserve Bank of Philadelphia
+Politechnika Wrocławska
+Georg-August-Universität Göttingen
+Government of the United States
+Centre de Recherche en Économie et Statistique (CREST)
+University of Glasgow
+Uniwersytet Warszawski
+École Normale Supérieure Paris-Saclay (ENS)
+CESifo
+Università degli Studi di Torino
+George Mason University
+Nationale Bank van België/Banque national de Belqique (BNB)
+University of Arizona
+International Monetary Fund (IMF)
+Banco de España
+University of Bristol
+Microsoft Research
+University of Florida
+University of California, Berkeley, Haas School of Business, Finance Group
+University of Alberta
+University of California-Santa Cruz (UCSC)
+Universität St. Gallen
+Ludwig-Maximilians-Universität München
+Tulane University
+State University of New York-Binghamton (SUNY)
+Universiteit van Tilburg
+Agricultural Research Center (ARC)
+National Graduate Institute for Policy Studies (GRIPS)
+RAND
+Libera Università Internazionale degli Studi Sociali Guido Carli (LUISS)
+Universiteit Utrecht
+Humboldt-Universität Berlin
+University of California at Berkeley, Department of Economics
+Institut für Weltwirtschaft (IfW)
+Norges Handelshøyskole (NHH)
+Australian National University
+University of Kansas
+Brunel University
+Birkbeck College
+Weiss Asset Management
+University of Oregon
+Purdue University
+University of Surrey
+Luxembourg Institute of Socio-Economic Research (LISER, CEPS/INSTEAD)
+Federal Reserve Bank of Minneapolis
+Peking University
+RWI - Leibniz-Institut für Wirtschaftsforschung
+Universiteit van Amsterdam
+Libera Università di Bolzano / Freie Universität Bozen
+University of Waikato
+King's College London
+University of Glasgow, Institute of Biodiversity, Animal Health and Comparative Medicine (university of glasgow IBAHCM)
+Universidad de Chile
+Universidade de Lisboa
+New York University Abu Dhabi
+Brigham Young University
+Universitetet i Oslo
+Fondation pour les études et recherches sur le développment international (FERDI)
+Hebrew University of Jerusalem
+Texas A&amp;M University
+Universität Basel
+University of Nebraska-Omaha
+University of Notre Dame
+Inter-American Development Bank
+Université de Lyon
+State University of New York-Buffalo (SUNY)
+DePaul University
+HEC Montréal (École des Hautes Études Commerciales)
+University of Calgary
+Wilfrid Laurier University
+Cornell University Department of Statistical Science
+Emory University
+Kyushu University
+Università Cattolica del Sacro Cuore
+Walter Eucken Institut
+Rheinische Friedrich-Wilhelms-Universität Bonn
+Universidad Carlos III de Madrid
+Universität Bern
+University of Missouri-Kansas City
+University of Minnesota-St. Paul
+Aalto-yliopisto
+University of Illinois at Urbana-Champaign
+Lancaster University
+Federal Reserve Bank of Cleveland
+Aarhus Universitet
+University of Essex
+Colorado State University
+Montpellier Business School
+Cato Institute
+University College Dublin
+International Food Policy Research Institute (IFPRI)
+University of Chicago Law School
+Institut für Weltwirtschaft (IfW) (Kiel Institute for the World Economy)
+Universität zu Köln
+Université Paris-13
+Université de Lausanne
+University of Tokyo
+Université Paris 1 (Panthéon-Sorbonne)
+Banco de la Republica de Colombia
+Goethe Universität Frankfurt am Main
+Bank of England
+University of Nevada-Las Vegas
+University of Kentucky
+Tufts University
+Federal Reserve Bank of Boston
+University of Pittsburgh
+Universiteit Gent
+Universidad IE
+University of South Africa (UNISA)
+University of North Carolina-Chapel-Hill
+Abt Associates
+Clemson University
+Chinese University of Hong Kong
+Federal Reserve Bank of St. Louis
+Deutsche Bundesbank
+Sveriges Riksbank
+École des Hautes Études en Sciences Sociales (EHESS)
+Rajagiri Business School
+Università degli Studi di Padova
+Universidad Torcuato Di Tella
+Universität Potsdam
+Sogang University
+Government of the United Kingdom
+Organisation de Coopération et de Développement Économiques (OCDE)
+University of North Carolina-Greensboro
+Friedrich-Schiller-Universität Jena
+Benedictine University (Benedictine University)
+Queen Mary University of London
+Williams College
+Università degli Studi di Modena e Reggio Emilia
+Università degli Studi di Roma "Tor Vergata"
+Harvard Graduate School of Education
+University of South Carolina
+Resources for the Future (RFF)
+University of Guelph
+University of Western Australia
+Wageningen Universiteit en Researchcentrum
+Department of Primary Care and Public Health, Imperial College London
+Amsterdam School of Communications Research (ASCoR), Universiteit van Amsterdam
+Southern Illinois University
+Università Politecnica delle Marche
+Kyoto University
+Universiti Kuala Lumpur
+University of Houston
+Atlantic Council
+Cardiff University
+Leicester University
+Lunds Universitet
+University of Reading
+Universidad del Desarrollo
+Université du Luxembourg
+Centre for European Policy Studies (CEPS)
+W.E. Upjohn Institute for Employment Research
+Université de Strasbourg
+Santa Fe Institute
+Wissenschaftszentrum Berlin für Sozialforschung (WZB)
+University of Pennsylvania Law School
+University of Thessaly
+Middlebury College
+University of Sheffield
+National University of Singapore (NUS)
+Wiener Institut für Internationale Wirtschaftsvergleiche (WIIW)
+Central European University
+Rice University
+Central Bank of Ireland
+McMaster University
+Xiamen University
+Nanchang University
+Aix-Marseille Université
+Institute for Fiscal Studies (IFS)
+University of Sharjah
+Wellesley College
+University of Hertfordshire
+Banco de Portugal
+University of Illinois at Chicago
+Universität Mannheim
+Institut für Höhere Studien (IHS)
+North Carolina State University
+BlackRock
+Bilkent Üniversitesi
+Helsingin yliopisto, Matematiikan ja tilastotieteen laitos (University of Helsinki, Department of Mathematics and Statistics)
+Department of Kinesiology, University of Michigan
+Universidade Nova de Lisboa
+Universität Wien
+Bar Ilan University
+University of Missouri
+Stanford University Graduate School of Education
+Rensselaer Polytechnic Institute
+Institute of Education
+University of Arkansas
+The New School
+Tinbergen Instituut
+INSEAD
+University of Alabama-Tuscaloosa
+Center for Global Development (CGD)
+Simon Fraser University
+Doğu Akdeniz Üniversitesi
+University of Birmingham
+Kobe University
+Alma Mater Studiorum - Università di Bologna
+Bank of Greece
+Freie Universität Berlin
+Florida State University
+University of Kent
+Koç Üniversitesi
+University of Hong Kong
+Southern Methodist University
+Iowa State University
+Universidad de San Andrés
+Univerzita Karlova v Praze
+American Enterprise Institute
+Universidade de Santiago de Compostela
+Banque de France
+University of Connecticut
+Centre de Recherche sur les Risques, les Enjeux Économiques et les Politiques Publiques (CRREP)
+Case Western Reserve University
+Université Paris-Nanterre (Paris X)
+Università Ca' Foscari Venezia
+Hochschule für Wirtschaft und Recht
+York University
+Shanghai Jiao Tong University
+Asian Development Bank
+Lille Économie et Management (LEM)
+Università degli Studi di Milano
+Seoul National University
+Göteborgs Universitet
+HEC Paris (École des Hautes Études Commerciales)
+Louisiana State University
+Nanyang Technological University
+Rutgers University-Newark
+University of California, Irvine - School of Education (Greg Duncan)
+Department of Geography, University of Cambridge
+Leopold-Franzens-Universität Innsbruck
+Singapore Management University
+Centre d'études prospectives et d'informations internationales (CEPII)
+Heinriche-Heine-Universität Düsseldorf
+Université de Nantes
+Maastricht University
+Groupe EDHEC (École de Hautes Études Commerciales du Nord)
+Universidad del Pacífico
+Philipps-Universität Marburg
+Leibniz-Institut für Wirtschaftsforschung Halle (IWH)
+University of California-Merced
+Bank of Canada
+University of New Orleans
+Oxford University, Oxford Martin School
+Université de Montréal
+Université Laval
+Pontificia Universidad Católica del Perú
+Ashoka University
+Universiteit van Amsterdam (University of Amsterdam)
+Keio University
+Universität Leipzig
+University of Auckland
+Université du Québec à Montréal (UQAM)
+Illinois State University
+Università degli Studi di Firenze
+Seinan Gakuin University
+University of Bath
+University of Hawaii-Manoa
+Universitá della Svizzera Italiana (USI)
+Université de Pau et des Pays de l'Adour
+Federal Reserve Bank of Richmond
+State University of New York-Albany (SUNY)
+Google, Inc.
+Rochester Institute of Technology
+University of Nebraska
+Rijksuniversiteit Groningen (Royal University of Groningen)
+Institut de Préparation à l'Administration et à la Gestion (IPAG)
+Université de Bordeaux
+Universidad de los Andes
+Österreichisches Institut für Wirtschaftsforschung (WIFO)
+INSEAD (INSEAD)
+Norges teknisk-naturvitenskaplige universitet (NTNU)
+Stony Brook University - SUNY
+WU Wirtschaftsuniversität Wien
+Fundación de Estudios de Economía Aplicada (FEDEA)
+United Arab Emirates University
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+Universität Bayreuth
+Universität Hamburg
+Université de Tunis El Manar
+Eberhard-Karls-Universität Tübingen
+Banca d'Italia
+Georgia Institute of Technology
+University of Iowa
+New York University
+Uppsala Universitet
+Auburn University
+Yeshiva University
+Centre for Studies in Social Sciences
+Centre for Household, Income, Labour and Demographic Economics (CHILD)
+Swiss Finance Institute
+Wayne State University
+Max Weber Programme, European University Institute
+Tianjin University
+Temple University
+University of Pennsylvania, department of history
+Portland State University
+Bard College
+Government of Japan
+University of Miami
+European Commission
+Texas A&amp;M International University
+Université de Namur
+Texas State University
+University of Richmond
+Universidad del Norte
+United Nations
+Drexel University
+West Virginia University
+Oklahoma State University
+Ritsumeikan Asia Pacific University
+Helmut Schmidt Universität Hamburg
+University of Texas-San Antonio
+Carl von Ossietzky Universität Oldenburg
+Insper Instituto de Ensino e Pesquisa
+University of Central Florida
+Kammer für Arbeiter und Angestellte für Wien
+Mekong Development Research Institute
+University of Wisconsin-Madison, Department of Population Health Sciences
+KU Leuven (University of Leuven)
+Universidad EAFIT
+Economic Research Institute for Northeast Asia (ERINA)
+University of Exeter
+Leibniz Universität Hannover
+Centre Interuniversitaire de Recherche en Analyse des Organisations (CIRANO)
+Mercator Research Institute on Global Commons and Climate Change (MCC)
+Copenhagen Business School
+Háskóla Íslands
+Bruegel
+Leibniz-Zentrum für Europäische Wirtschaftsforschung (ZEW)
+Hamilton College
+Beijing Normal University
+University of Louisville
+Université de Nice-Sophia Antipolis
+Universidade do Minho
+National Chung-Hsing University
+Rheinisch-Westfälische Technische Hochschule Aachen
+University of Melbourne
+Tsinghua University
+Concordia University
+Vassar College
+Royal Holloway
+Appalachian State University
+Université d'Orléans
+Banco Central de Chile
+University of Victoria
+University of California, Los Angeles, Department of Political Science
+Georgia Institute of Technology - School of Civil &amp; Environmental Engineering
+National University of Ireland
+Fundação Getúlio Vargas (FGV)
+Universität Siegen
+University of Leeds
+Curtin University
+University of Ulster
+Pontificia Universidad Católica de Chile
+Claremont Graduate University
+Nanjing University of Aeroneautics and Astronautics
+Université Paris-Dauphine (Paris IX)
+Institut d'Etudes Politiques de Paris.Sciences Po
+Christian-Albrechts-Universität Kiel
+European Bank for Reconstruction and Development (EBRD)
+Cheung Kong Graduate School of Business
+Basque Centre for Climate Change (BC3)
+New Economic School (NES)
+Westfälische Wilhelms-Universität Münster
+Hong Kong University of Science and Technology (HKUST)
+Université Paris-Saint-Denis (Paris VIII)
+University of Otago
+Centre for Macroeconomics (CFM)
+Zeppelin Universität
+Universidad Complutense de Madrid
+Investment Technology Group, Inc.
+American University
+Swansea University
+de Nederlandsche Bank
+University of Tehran
+Université Paris-Est
+University of Canterbury
+Lindenwood University
+Universidad del CEMA
+Bond University
+University of Oklahoma
+Center for Economic Research and Graduate Education and Economics Institute (CERGE-EI)
+The Citadel
+Universiti Sains Malaysia
+Government of Norway
+Bangor University
+Blekinge Tekniska Högskola
+Centre pour la Recherche Économique et ses Applications (CEPREMAP)
+University of Vermont
+Max Planck Gesellschaft, Generalverwaltung (Max Planck Society, Administrative Headquarters)
+Carleton University
+Welch Consulting
+Institut Louis Bachelier
+Università degli Studi di Padova - Dipartimento di Scienze Statistiche (University of Padua - Department of Statistical Sciences)
+Pontifícia Universidade Católica do Rio de Janeiro
+Consiglio Nazionale delle Ricerche
+Indian Statistical Institute
+Feng Chia University
+Université de Bourgogne
+Florida Atlantic University
+Centro de Estudios Públicos
+Università degli Studi della Calabria
+Bureau d'Économie Théorique et Appliquée (BETA)
+Puey Ungphakorn Institute for Economic Research (PIER)
+Victoria University
+University of Stirling
+University of Massachusetts-Amherst
+University of Cape Town
+Institut der Deutschen Wirtschaft Köln
+Universidad Externado de Colombia
+Texas Tech University - Rawls College of Business
+École Polytechnique Fédérale de Lausanne (EPFL)
+Libera Università Maria Ss. Assunta (LUMSA)
+Università Carlo Cattaneo (LIUC)
+University of Ghana
+Schweizerische Nationalbank (SNB)
+Università degli studi di Milano Dipartimento di Scienze e Politiche Ambientali (University of Milan Department of Environmental Science and Policy)
+Université des Sciences et Technologie de Lille (Lille 1)
+Universidad del País Vasco - Euskal Herriko Unibertsitatea
+Utah State University
+Banco Central do Brasil
+Clark University
+National Institute of Public Finance and Policy
+Institut de statistique, Université catholique de Louvain
+Federal Reserve Bank of Kansas City
+Universitetet i Stavanger
+Vanderbilt University Law School
+China Europe International Business School
+Government of Sweden
+Universität Dortmund
+Helsingin Yliopisto
+University of Georgia
+Institut National de la Recherche Agronomique (INRA)
+Universität Augsburg
+School of Information
+Centre de Recherche en Économie et Management (CREM)
+Sustainability Environmental Economics and Dynamics Studies (SEEDS)
+University of Southampton
+Università degli Studi di Milano-Bicocca
+RMIT University
+University of National and World Economy
+アジア福祉教育財団 (Foundation of Welfare and Education of the Asian People)
+Wellesley College, Wellesley Centers for Women
+College of William &amp; Mary
+University of Colorado Denver
+Latvijas Banka
+Universität zu Köln (University of Cologne)
+Orta Doğu Teknik Üniversitesi
+Högskolan i Jönköping
+Research Institute of Economy, Trade and Industry (RIETI)
+Gaidar Institute for Economic Policy
+Baylor University
+University of Cambridge - Faculty of Education
+Ben Gurion University of the Negev
+"Sapienza" Università di Roma
+Otto-Friedrich Universität Bamberg
+Universität Osnabrück
+Griffith University
+Hong Kong University of Science and Technology
+University of North Florida
+University of Akron
+Athens University of Economics and Business (AUEB)
+University of New England
+Universidad de València
+The University of Sydney Law School (The University of Sydney Law School)
+East West University
+Kühne Logistics University
+University of Mississippi
+BI Handelshøyskolen
+Jyväskylän yliopisto
+Virginia Polytechnic Institute and State University (Virginia Tech)
+Kungliga Tekniska Högskolan (KTH)
+Scuola Superiore di Economia in Venezia - SSE Ca' Foscari
+Università degli Studi di Bergamo
+Ruhr-Universität Bochum
+Universitat de Barcelona
+Universidad Adolfo Ibáñez
+Academia Sinica
+University of London / London School of Economics and Political Science (LSE) - Department of Geography &amp; Environment
+University of Liverpool
+University of Cyprus
+Maynooth University
+University of St. Andrews
+Universidad Nacional de La Plata
+Colorado School of Mines
+Northeastern University
+Centre for Policy Research (CPR)
+Santa Clara University
+Virginia Commonwealth University
+Reserve Bank of Australia
+University of Burdwan
+Grupo BBVA
+University of Notre Dame, Department of Political Science
+Economic and Social Research Institute (ESRI)
+Rimini Centre for Economic Analysis (RCEA)
+Centre for Advanced Financial Research and Learning (CAFRAL)
+Universität Trier
+Université Clermont Auvergne
+Lehigh University
+Durham University
+International Centre for Education in Islamic Finance (INCEIF)
+The Media Laboratory, Massachusetts Institute of Technology (MIT)
+Norges miljø- og biovitenskapelig universitet
+Université de Fribourg - Universität Freiburg
+University of Portsmouth
+Hitotsubashi University
+Agence Internationale de l'Énergie
+Kwansei Gakuin University
+Central Bank of the United Arab Emirates
+University of Saskatchewan
+Humboldt-Universität Berlin (Humboldt University Berlin)
+Universität Graz (University of Graz)
+Universiti Putra Malaysia (UPM)
+National Taiwan University
+Universität Luzern
+Aalborg Universitet
+College of the Holy Cross
+Instituto Valenciano de Investigaciones Económicas (IVIE)
+Government of Canada
+Washington State University
+University of Memphis
+Florida International University
+Universidad de Zaragoza
+Technische Universität Darmstadt
+Dalhousie University
+Université de Liège
+Risk Control Ltd (Risk Control Ltd)
+University of Crete
+Hertie School of Governance
+Universität Hohenheim
+Karlsruhe Institut für Technologie
+University of Johannesburg
+Wesleyan University
+Kochi University of Technology
+Laboratoire d'Économie Appliquée de Grenoble
+Università degli Studi di Messina
+Kansas State University
+Université de Limoges
+NERA Economic Consulting
+Universidade do Porto
+Technische Universität Dresden
+Erasmus Universiteit Rotterdam, Faculteit Sociale Wetenschappen (Erasmus University Rotterdam, Social Sciences)
+Statistiska institutionen, Stockholms universitet (Department of Statistics, Stockholm University)
+Johannes Gutenberg-Universität Mainz
+American University of Beirut
+Oregon State University
+WU Wirtschaftsuniversität Wien (WU Vienna University of Economics and Business)
+Institutt for Samfunnsforskning (ISF)
+Ruprecht-Karls-Universität, Süd-Asien Institut
+Universidad de los Andes (University of the Andes)
+Boston University School of Law
+Universidad Loyola Andalucía
+Mount Allison University
+IGZ – Leibniz-Institut für Gemüse- und Zierpflanzenbau (IGZ - Leibniz Institute for Vegetable and Ornamental Crops)
+Università Commerciale Luigi Bocconi (Bocconi University)
+Universität Konstanz, Fachbereich Geschichte und Soziologie (University of Konstanz, department of history and sociology)
+Universidad de Murcia
+Colegio Universitario de Estudios Financieros (CUNEF)
+National Institute of Economic and Social Research (NIESR)
+Banco de México
+Lingnan University
+Banco de Desarrollo de América Latina (CAF)
+Universiteit van Tilburg (Tilburg University)
+Aston University
+Colegio de México
+Università degli Studi di Pisa
+Pennsylvania State University - School of International Affairs
+Technische Universität Wien
+Asia School of Business
+Yale University, School of Forestry &amp; Environmental Studies
+Western Washington University
+Universidad de La Sabana
+StataCorp
+Imperial College London , Department of Civil Engineering
+Universität Passau
+İstanbul Medeniyet Üniversitesi
+Karl-Franzens-Universität Graz
+Oesterreichische Nationalbank
+Centre International de Recherche sur l'Environnement et le Développement (CIRED)
+Waseda University
+Örebro Universitet
+Narodowy Bank Polski
+Albert-Ludwigs-Universität Freiburg
+Universidad Nacional de Educatión a Distancia
+Université Panthéon-Assas (Paris II)
+Instituto Tecnólogico Autónomo de México (ITAM)
+Universitetet i Bergen
+Trinity University
+University of Pennsylvania, School of Social Policy &amp; Practice
+Osaka University
+Centro de Investigación y Docencia Económicas (CIDE)
+Cairo University
+North-Eastern Hill University
+University of Massachusetts-Boston
+Grupo de Análisis para el Desarrollo (GRADE)
+University of Greenwich
+University of Manchester, Economics
+Università degli Studi della Campania "Luigi Vanvitelli"
+Western Michigan University
+University of California
+Università degli Studi di Pavia
+James Madison University
+Government of France
+Otto-von-Guericke-Universität Magdeburg
+University of Michigan, Industrial and Operations Engineering (University of Michigan, Industrial and Operations Engineering)
+University of Delhi
+Universidade de São Paulo
+RFF-CMCC European Institute on Economics and the Environment (EIEE)
+Indiana University-Purdue University (IUPUI)
+Princeton University (Princeton University)
+Hong Kong Monetary Authority
+Pécsi Tudományegyetem
+Universidad del Rosario
+Master Consultores
+Univerza na Primorskem
+Universität Regensburg
+Université de Montpellier I
+Justus-Liebig-Universität Gießen
+Westmont College
+East China University of Science and Technology
+Academia Romana
+Webster University
+Lafayette College
+Česká Národní Banka
+Institute of Social Studies (ISS)
+Claremont McKenna College
+University of New Mexico
+École d'Ingénieurs Télécom ParisTech
+University of Waterloo
+Universite de Montreal (University of Montreal)
+Università degli Studi di Catania
+Shih Chien University
+Reed College
+University of Maryland-Baltimore County
+Univerza v Ljubljani
+Université de Nantes (University of Nantes)
+Chinese Academy of Sciences
+Alfred Weber Institut, Universität Heidelberg (Alfred Weber Institute, University of Heidelberg)
+European Stability Mechanism
+Bayerische Julius-Maximilians-Universität Würzburg
+Magyar Tudományos Akadémia
+Bournemouth University
+Ruprecht-Karls-Universität Heidelberg, Philosophisches Seminar, Philosophische Fakultät (University of Heidelberg)
+University of Stellenbosch
+University of Manitoba
+Handelshögskolan i Stockholm (Stockholm School of Economics)
+University of South Australia
+Swarthmore College
+Politecnico di Milano
+University of Cincinnati
+Colgate University
+California Polytechnic State University
+Dartmouth College, Environmental Studies Program
+Queensland University of Technology
+Amherst College
+Bergische Universität Wuppertal
+Villanova University
+University of Haifa
+College of William and Mary, Institute for the Theory and Practice of International Relations
+Universidad Diego Portales
+Università degli Studi di Verona
+Government of Finland
+Università degli Studi di Trento
+Microsoft Research, New England
+Universidad Pablo de Olavide
+Tokyo Center for Economic Research (TCER)
+Nihon University
+University of Georgia Institute of Higher Education
+University of Tennessee-Knoxville
+University of Central Lancashire
+Università degli Studi di Napoli - "Parthenope"
+Cranfield University
+Nelson Mandela Metropolitan University
+Università degli Studi di Urbino
+Università degli Studi del Molise
+World Bank
+Universitat Ramon Llull
+Technische Universität Dortmund (Dortmund University of Technology)
+Inter-Agency Research Cooperation Project: Understanding Children's Work and Its Impact (UCW)
+Fraunhofer-Gesellschaft
+Institute for International Policy Studies (IIPS)
+Tinbergen Instituut (Tinbergen Institute)
+University of Helsinki, Department of Forest Sciences (University of Helsinki, Department of Forest Sciences)
+Macquarie University
+Tampereen Yliopisto
+International Initiative for Impact Evaluation (3ie)
+Axia Economics (Axia Economics)
+Paris-Lodron Universität Salzburg
+Seoul National University of Science and Technology
+上海鸣石投资管理有限公司 (Shanghai Mingshi Investment Management Co,.Ltd)
+Inha University
+Universität Hohenheim (University of Hohenheim)
+Universidad Autónoma de Madrid
+Russian Academy of Sciences (RAS)
+Kennesaw State University
+AQR Capital Management
+University of the Sunshine Coast
+African Development Bank
+Sabancı Üniversitesi
+University of California-Los Angeles (UCLA) / Institute of the Environment &amp; Sustainability
+Harvard Graduate School of Education (Harvard Graduate School of Education)
+Università degli Studi dell'Aquila
+University of Washington -Depts of Pharmacy, Health Services, Economics
+Ernst-Moritz-Arndt-Universität Greifswald
+Illinois Institute of Technology
+Universidad Nacional de Colombia
+Europa-Universität Viadrina Frankfurt (Oder)
+Frankfurt School of Finance and Management
+Russian Presidential Academy of National Economy and Public Administration (RANEPA)
+Philipps-Universität Marburg - Fachbereich Geographie (Philipps University Marburg - Geographic Faculty)
+Bank of America Merrill Lynch Mexico
+Mississippi State University
+Università degli Studi Roma Tre
+Universitat Jaume I
+Rokos Capital Management
+Marquette University
+Universiteit Antwerpen
+Universidad de Montevideo
+Universität Bielefeld
+University of Nevada-Reno
+University of Macedonia
+University of Missouri-St. Louis
+Indira Gandhi Institute of Development Research (IGIDR)
+Universität Paderborn
+San Diego State University
+University of Delaware
+Universiti Putra Malaysia (Universiti Putra Malaysia)
+Asian Growth Research Institute (AGI)
+Technische Universität Berlin, Fakultät für Wirtschaft und Management (Technical University Berlin, Dept. of economics and management)
+École Polytechnique
+The Johns Hopkins University - Department of Geography &amp; Environmental Engineering
+Stanford Law School (Stanford Law School)
+University of Utah (Department of Mathematics)
+National Chiao Tung University
+La Trobe University
+Yonsei University
+University of North Carolina-Charlotte
+Suomen Pankki
+Government of Australia
+Bank of Japan
+Université Paris-Sud (Paris XI)
+Universiti Malaysia Sarawak
+Institut für Arbeitsmarkt- und Berufsforschung (IAB)
+Institut für Angewandte Mathematik, Universität Heidelberg
+Dipartimento di Fisica e Chimica (Department of Physics and Chemistry)
+Loughborough University
+Doshisha University
+Universidad de Buenos Aires
+Bates College
+Centro Ricerche Nord Sud (CRENoS)
+Università degli Studi di Bari "Aldo Moro"
+Institut des Sciences Humaines et Sociales CNRS (InSHS CNRS)
+Universitatea Româno-Americană
+Pakistan Institute of Development Economics
+Trinity College
+University of Lincoln
+ESSEC Business School
+Technische Universität Bergakademie Freiberg
+Université de Sherbrooke
+Economic Policy Institute
+Sveriges Riksbank (Central Bank of Sweden)
+Tallinna Tehnikaülikool
+European School of Management and Technology (ESMT)
+University of Denver
+Center for Financial Studies
+Group for Research in Applied Economics (GRAPE)
+Swinburne University of Technology
+Vrije Universiteit Amsterdam (VU University Amsterdam)
+Turun Yliopisto
+Macalester College
+Energy and Environmental Economics, Inc.
+Hunan University
+Renmin University of China
+National Bureau of Economic Research (NBER)
+Columbia University
+University of Auckland
+Australian National University
+Institute for Fiscal Studies (IFS)
+Paris School of Economics
+University of Southern California
+Princeton University
+Tinbergen Instituut
+Harvard University
+Stanford University
+Federal Reserve Bank of Minneapolis
+University of Chicago
+Università Commerciale Luigi Bocconi (Bocconi University)
+London School of Economics (LSE)
+Institut de Préparation à l'Administration et à la Gestion (IPAG)
+Yale University
+DIW Berlin (Deutsches Institut für Wirtschaftsforschung)
+Massachusetts Institute of Technology (MIT)
+Social Science Research Network
+Brookings Institution
+Erasmus Universiteit Rotterdam
+Universität Basel
+Universität Zürich
+Barcelona Graduate School of Economics (Barcelona GSE)
+Government of the United States
+European Xtramile Centre of African Studies (EXCAS)
+Northwestern University
+Aarhus Universitet
+CESifo
+Brown University
+Université Catholique de Louvain
+European University Institute
+Oxford University
+UNSW Sydney
+Vrije Universiteit Amsterdam
+Central University of Finance and Economics (CUFE)
+University of Pennsylvania
+Institute of Labor Economics (IZA)
+Centre for Economic Policy Research (CEPR)
+University of Michigan
+University of Cyprus
+Gaidar Institute for Economic Policy
+Johannes-Kepler-Universität Linz
+Université de Liège
+University College London (UCL)
+University of California-Berkeley
+University of Essex
+University of Queensland
+Wissenschaftliche Hochschule für Unternehmensführung (WHU)
+University of Missouri
+Eidgenössische Technische Hochschule Zürich (ETHZ)
+New York University Abu Dhabi
+Rimini Centre for Economic Analysis (RCEA)
+University of California-San Diego (UCSD)
+Rheinische Friedrich-Wilhelms-Universität Bonn
+Institutet för Näringslivsforskning (IFN)
+Universiteit Gent
+European Central Bank
+University of Wisconsin-Madison
+Swiss Finance Institute
+University of California-Santa Barbara (UCSB)
+Rijksuniversiteit Groningen
+Istituto Einaudi per l'Economia e la Finanza (EIEF)
+Leicester University
+University of Cambridge
+Pontifícia Universidade Católica do Rio de Janeiro
+Doğu Akdeniz Üniversitesi
+Universidad de Navarra
+Cornell University
+New York University (NYU)
+Bank of England
+Peter G. Peterson Institute for International Economics (IIE)
+Ludwig-Maximilians-Universität München
+Johns Hopkins University
+London Business School (LBS)
+California Institute of Technology
+Federal Reserve Bank of New York
+University of California-Los Angeles (UCLA)
+Centre for European Policy Studies (CEPS)
+Center for Financial Studies
+Banque de France
+Tel Aviv University
+World Bank Group
+International Monetary Fund (IMF)
+Centre Interuniversitaire de Recherche en Économie Quantitative (CIREQ)
+Centro de Análisis y Estudios Ríos Pérez (CAERP)
+Stockholms Universitet
+Emory University
+New Economic School (NES)
+Suomen Pankki
+Chapman University
+Universität zu Köln
+Washington University in St. Louis
+Politechnika Wrocławska
+Georg-August-Universität Göttingen
+Università Commerciale Luigi Bocconi
+École Polytechnique
+Hebrew University of Jerusalem
+KU Leuven
+United Nations University-Maastricht Economic Research Institute of Innovation and Technology (UNU-MERIT)
+Universität St. Gallen
+Network for Studies on Pensions, Aging and Retirement (NetSPAR)
+University College Dublin
+Sciences Po
+Max-Planck-Gesellschaft
+Aix-Marseille Université
+University of British Columbia
+Universitetet i Stavanger
+HEC Paris (École des Hautes Études Commerciales)
+Humboldt-Universität Berlin
+C. D. Howe Institute
+University of Warwick
+University of Toronto
+Indiana University
+Resources for the Future (RFF)
+Boston University
+Purdue University
+Centre for Microdata Methods and Practice (CEMMAP)
+University of Rochester
+Københavns Universitet
+Toulouse School of Economics (TSE)
+Bruegel
+Williams College
+University of Illinois at Urbana-Champaign
+University of Waikato
+Universidade de Lisboa
+Southwestern University of Finance and Economics (SWUFE)
+Centre d'études prospectives et d'informations internationales (CEPII)
+Université de Genève
+INSEAD
+Center for Research in Economics, Management and the Arts (CREMA)
+Federal Reserve Board
+Centre for Applied Macroeconomic Analysis
+Federal Reserve Bank of Atlanta
+Albert-Ludwigs-Universität Freiburg
+Maastricht University
+Bard College
+Università Ca' Foscari Venezia
+University of Birmingham
+University of Arizona
+Freie Universität Berlin
+Cornell University, Department of Information Science
+Federal Reserve Bank of St. Louis
+Universiteit van Tilburg
+Université Libre de Bruxelles
+Alma Mater Studiorum - Università di Bologna
+Government of Norway
+Pennsylvania State University
+University of Delaware
+Georgia State University
+Institute for Sociology
+Fondazione Rodolfo DEBENEDETTI (fRDB)
+Christian-Albrechts-Universität Kiel (University of Kiel)
+Université d'Ottawa / University of Ottawa
+University of California-Davis
+Research Institute of Economy, Trade and Industry (RIETI)
+University of Connecticut
+Institut de Ciència i Tecnologia Ambientals, Universitat Autònoma de Barcelona (Institute of Environmental Science and Technology, Autonomous University of Barcelona)
+University of Notre Dame
+Monash University
+Libera Università Internazionale degli Studi Sociali Guido Carli (LUISS)
+University of South Africa (UNISA)
+ThinkShift Institute for Upward Mobility
+International Food Policy Research Institute (IFPRI)
+Interdisciplinary Center (IDC)
+Universidad de Buenos Aires
+Högskolan i Jönköping
+Leibniz-Institut für Wirtschaftsforschung Halle (IWH)
+University of Bristol
+Università degli Studi di Modena e Reggio Emilia
+Durham University
+Duke University, Nicholas School of the Environment and Earth Sciences
+Singapore Management University
+University of Nottingham
+Institut für Höhere Studien (IHS)
+Tinbergen Instituut (Tinbergen Institute)
+Universiteit van Amsterdam, Amsterdam School of Communication Research ASCoR (University of Amsterdam, Amsterdam School of Communication Research ASCoR)
+Facultad Latinoamericana de Ciencias Sociales (FLACSO)
+Institute of Economic Affairs (IEA)
+Bank of Greece
+Centre for Macroeconomics (CFM)
+Deakin University
+Hans Böckler Stiftung
+Duke University
+Queen Mary University of London
+Lancaster University
+Budapesti Corvinus Egyetem
+Universidad del Pacífico
+National University of Singapore (NUS)
+American University
+Jinan University
+Fundação Getúlio Vargas (FGV)
+Universidade Nova de Lisboa
+Göteborgs Universitet
+Università degli Studi di Torino
+Center for Economic Research and Graduate Education and Economics Institute (CERGE-EI)
+North Carolina State University
+City University of New York (CUNY)
+Centre for Microdata Methods and Practice CeMMAP
+Boğaziçi Üniversitesi (Bogazici University)
+King's College London
+Universität Wien
+University of Washington
+American Bar Foundation (ABF)
+European Corporate Governance Institute (ECGI)
+Federal Reserve Bank of Chicago
+The New School
+WU Wirtschaftsuniversität Wien
+Lindenwood University
+George Washington University
+Networks, Electronic Commerce, and Telecommunications (NET Institute)
+Montpellier Business School
+Università degli Studi di Roma "Tor Vergata"
+George Mason University
+Asian Growth Research Institute (AGI)
+Athens University of Economics and Business (AUEB)
+Trinity College Dublin
+Universidad de Chile
+Hertie School of Governance
+Iowa State University
+University of Kentucky
+Federal Reserve Bank of Dallas
+Université Laval
+Hochschule für Wirtschaft und Recht
+Université Catholique de Lille
+Institut für Weltwirtschaft (IfW)
+Österreichisches Institut für Wirtschaftsforschung (WIFO)
+Europa-Universität Viadrina Frankfurt (Oder)
+Centre de Recherche en Économie et Statistique (CREST)
+Stiftung Marktwirtschaft
+Government of Japan
+Otto-von-Guericke-Universität Magdeburg
+Ruhr-Universität Bochum
+Swinburne University of Technology
+Centre de Recherche sur les Risques, les Enjeux Économiques et les Politiques Publiques (CRREP)
+Université Paris-Nanterre (Paris X)
+Universiteit van Amsterdam (University of Amsterdam)
+Federal Reserve Board (Board of Governors of the Federal Reserve System)
+ifo Institut - Leibniz-Institut für Wirtschaftsforschung an der Universität München e.V.
+Money and Finance Research group (Mo.Fi.R.)
+Motu: Economic &amp; Public Policy Research
+Ecorys
+Universitat Jaume I
+National Research University Higher School of Economics
+Oak Ridge National Laboratory
+Centro Ricerche Nord Sud (CRENoS)
+Leibniz-Zentrum für Europäische Wirtschaftsforschung (ZEW)
+Osaka University
+University of Bath
+Akademie věd České Republiky
+Wageningen Universiteit en Researchcentrum (Wageningen University and Research Center)
+Universidad de los Andes
+Bank of Canada
+Technische Universität Berlin
+BI Handelshøyskolen
+University of Virginia
+Österreichische Akademie der Wissenschaften
+Puey Ungphakorn Institute for Economic Research (PIER)
+National Institute of Economic and Social Research (NIESR)
+Università degli Studi di Verona
+University of St. Andrews
+Southern Methodist University
+Universidad Torcuato Di Tella
+Tufts University
+University of Iowa
+Oxford University, Department of Sociology
+Université de Lausanne
+Urban Institute
+Northeastern University
+Lunds Universitet
+Tax Administration Research Centre, University of Exeter
+Hitotsubashi University
+ESCP Europe
+Federal Reserve Bank of Philadelphia
+Universidade do Porto
+Grupo de Análisis para el Desarrollo (GRADE)
+University of Southern California, School of Pharmacy
+West Virginia University
+Arizona State University Polytechnic
+Groupe EDHEC (École de Hautes Études Commerciales du Nord)
+Federal Reserve Bank of San Francisco
+Economic Research Forum (ERF)
+Institute of Public Policy Management (IPPM)
+KU Leuven (University of Leuven)
+Universidad EAFIT
+University of Tokyo
+Claremont McKenna College
+Universiteit van Amsterdam
+Université de Montréal
+Potsdam-Institut für Klimafolgenforschung (PIK)
+W.E. Upjohn Institute for Employment Research
+Birkbeck College
+Ruprecht-Karls-Universität Heidelberg
+Rheinisch-Westfälische Technische Hochschule Aachen
+Universidade do Minho
+National Chung-Hsing University
+Centre for European Research in Microfinance (CERMi)
+Université Charles-de-Gaulle (Lille 3)
+University of Alabama-Tuscaloosa
+Université d'Aix-Marseille AMU
+Université du Luxembourg
+Human Development and Capability Association
+University of York
+Sorbonne Université (Sorbonne University)
+University of California Department of Civil and Environmental Engineering (University of California)
+Institute for Financial Research (SIFR)
+University of Surrey
+Università degli Studi di Napoli - "Federico II"
+University of California Los Angeles - School of Public Affairs
+Università degli Studi di Pavia
+Yale University, School of Forestry and Environmental Studies
+Università degli Studi di Torino (University of Turin)
+École Normale Supérieure Paris-Saclay (ENS)
+Centre for Household, Income, Labour and Demographic Economics (CHILD)
+Université Paris-Dauphine (Paris IX)
+Syracuse University
+Leibniz-Institut für Ost- und Südosteuropaforschung (IOS)
+Christian-Albrechts-Universität Kiel
+Dartmouth College
+Universiteit Utrecht
+TEPP Fédération de Recherche Travail Emploi et Politiques Publiques
+Università degli Studi di Milano
+Slovenská Poľnohospodárska Univerzita
+Escuela Superior Politécnica del Litoral (ESPOL)
+Ratioinstitutet
+RFF-CMCC European Institute on Economics and the Environment (EIEE)
+Banco Central do Brasil
+The Conference Board
+Universidade Católica Portuguesa
+Bureau d'Économie Théorique et Appliquée (BETA)
+Bentley University
+Nankai University
+Association Française de Cliométrie
+Bank of Thailand
+University of Victoria
+Handelshögskolan i Stockholm
+Government of Sweden
+Universität Bremen
+Technische Hochschule Köln
+Texas Tech University
+Libera Università Maria Ss. Assunta (LUMSA)
+Government of Slovakia
+Université de Nice-Sophia Antipolis
+Universidad del CEMA
+Martin-Luther-Universität Halle
+Scottish Institute for Research in Economics (SIRE)
+Fundación de Estudios de Economía Aplicada (FEDEA)
+Uppsala Universitet
+Economic Research Institute for ASEAN and East Asia (ERIA)
+Loyola Marymount University
+Centre Interuniversitaire de Recherche en Analyse des Organisations (CIRANO)
+Université du Maine
+CCSE CisAlpino Institute for Comparative Studies in Europe
+University of Minnesota
+University of Illinois at Chicago
+Université de Rennes 1
+Università degli Studi di Ferrara
+University of Maryland
+Centro de Estudios Monetarios y Financieros (CEMFI)
+Centro Studi di Economia e Finanza (CSEF)
+Hong Kong University of Science and Technology (HKUST)
+Bank of Japan
+Orta Doğu Teknik Üniversitesi
+Kungliga Tekniska Högskolan (KTH)
+Chulalongkorn University
+Centro Studi Luca d'Agliano (Ld'A)
+Griffith University
+Rice University
+Kent State University
+Boston College
+Asian Center for Development
+Norges Bank
+Palkansaajien tutkimuslaitos
+Università Ca' Foscari Venezia (University Ca' Foscari Venice)
+Universitat de Barcelona
+Università degli Studi di Perugia
+Carleton University
+Fudan University
+Georgetown University
+Université de Bordeaux
+University of California-Riverside
+Université de Mons
+Universidad de València
+Ohio State University
+Centre for Industrial Studies (CSIL)
+Corte dei conti (Italian Court of Auditors)
+Fondation pour les études et recherches sur le développment international (FERDI)
+La Trobe University
+University of Technology Sydney
+Michigan State University
+Institut National de la Recherche Agronomique (INRA)
+Copenhagen Business School
+University of Hawaii-Manoa
+RWI - Leibniz-Institut für Wirtschaftsforschung (RWI - Leibniz Institute for Economic Research)
+Magyar Tudományos Akadémia
+Universität Potsdam
+University of the Witwatersrand
+University of Melbourne
+Universidad Carlos III de Madrid
+Institut für Weltwirtschaft (Kiel Institute for the World Economy)
+Universität Bielefeld
+United Nations
+Universitat de les Illes Balears
+Università Cattolica del Sacro Cuore
+Independent Institute
+Akademia Leona Koźmińskiego
+Institutionen för datavetenskap (Department of Computer and Information Science)
+Federal Reserve Bank of Kansas City
+Wuhan University
+Université de Lausanne (University of Lausanne)
+Asian Development Bank
+University of Texas-Austin
+WU Wirtschaftsuniversität Wien (WU Vienna University of Economics and Business)
+Universitetet i Oslo
+Universidad de los Andes (University of the Andes)
+Research on Innovation
+Curtin University
+International Security and Development Center (ISDC)
+Fundación de las Cajas de Ahorros (FUNCAS)
+Center for Global Development (CGD)
+Global Studies Institute, University of Geneva
+University of Kent
+Universidad Complutense de Madrid
+Université Paris-Sud (Paris XI)
+Government of Italy
+Universiteit van Tilburg (Tilburg University)
+Universidad Nacional Autónoma de México
+Economic Research Southern Africa (ERSA)
+Vrije Universiteit Brussel
+Australasian Macroeconomics Society
+Fraser Institute
+IZA Institute of Labor Economics
+Erasmus Universiteit Rotterdam (Erasmus University of Rotterdam)
+University of Aberdeen
+Szkoła Główna Handlowa w Warszawie
+Goethe Universität Frankfurt am Main
+Universitetet i Bergen
+Universität Leipzig
+Fondazione ENI Enrico Mattei (FEEM)
+UCLA Blum Center on Poverty and Health in Latin America
+Universität Bern
+University of Glasgow
+University of Greenwich
+Inter-American Development Bank
+Universität Hohenheim
+University of Adelaide
+Politecnico di Milano
+Université Paris 1 (Panthéon-Sorbonne)
+Università degli Studi di Bergamo
+Universität Regensburg
+University of San Francisco
+Bilkent Üniversitesi
+University of Portsmouth
+Centro Studi Luca d'Agliano
+Vysoká Škola Ekonomická v Praze
+Universidad Nacional de La Plata
+Univerzita Karlova v Praze
+Université de Nantes (University of Nantes)
+Indian Statistical Institute
+Kaposvári Egyetem
+Universität Mannheim, Philosophy Section, Faculty of Philosophy (University of Mannheim)
+Universität Hamburg
+Harvard University, School of Engineering and Applied Sciences (Harvard University, School of Engineering and Applied Sciences)
+Harokopio University
+Imperial College
+National Centre for Econometric Research (NCER)
+Zhejiang University
+Danish Research Unit for Industrial Dynamics (DRUID)
+Københavns Universitet (University of Copenhagen)
+Public Policy Institute of California (PPIC)
+Jyväskylän yliopisto
+Banco de Portugal
+Universidade de São Paulo
+Institut für Arbeitsmarkt- und Berufsforschung (IAB)
+Università degli Studi di Trento
+University of Georgia
+Scuola Superiore Sant'Anna
+Studienzentrum Gerzensee
+Centro de Investigación y Docencia Económicas (CIDE)
+United Nations University
+Consorci Markets, Organizations and Votes in Economics (MOVE)
+University of North Carolina-Chapel-Hill
+Grenoble École de Management
+Queen's University
+Federal Reserve Bank of Boston
+University of Akron
+Russian Presidential Academy of National Economy and Public Administration (RANEPA)
+Universität Mannheim
+Indiana University Lilly Family School of Philanthropy
+University of Western Ontario
+Leopold-Franzens-Universität Innsbruck
+Universidad de Oviedo
+M. V. Lomonosov Moscow State University
+Universidad Nacional de Colombia
+Sustainability Environmental Economics and Dynamics Studies (SEEDS)
+Universitetet i Oslo (University of Oslo)
+Heinriche-Heine-Universität Düsseldorf
+University of Stellenbosch
+Burgundy School of Business
+German Institute of Global and Area Studies (GIGA)
+Universiti Putra Malaysia (UPM)
+University of Colorado Denver
+University of North Carolina-Greensboro
+Federal Reserve Bank of Cleveland
+Parliamentary Budget Office, Hellenic Parliament (Parliamentary Budget Office, Hellenic Parliament)
+University of Exeter
+RAND
+Institut d'études politiques de Paris (Sciences-po)
+Dipartimento di Scienze Economiche, Università di Bologna (Department of Economics, University of Bologna)
+Jiangxi University of Finance and Econonics
+Stichting IIDE
+National University of Ireland
+Kyoto University
+IZA, Insitute for the Study of Labour
+Canadian Institute for Advanced Research (CIFAR)
+Organisation de Coopération et de Développement Économiques (OCDE)
+Université de Sherbrooke
+Université des Sciences et Technologie de Lille (Lille 1)
+Schumpeter School of Economics (Schumpeter School of Economics)
+Centre for Russian International Socio-political and Economic Studies (CERISE)
+Eesti Pank
+Luxembourg Institute of Socio-Economic Research (LISER, CEPS/INSTEAD)
+Banca d'Italia
+Universität Mannheim (University of Mannheim)
+Universität Trier
+Technische Universität Dortmund, Fakultät Statistik (Technical University Dortmund, Faculty of Statistics)

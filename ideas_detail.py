@@ -19,9 +19,10 @@ def download(url, num_retries=2, user_agent='wswp', proxies=None):
     '''
     print('==========================================')
     print('Downloading:', url)
-    headers = {'User-Agent': user_agent} #头部设置，默认头部有时候会被网页反扒而出错
+    headers = {'User-Agent': user_agent,'Connection':'close'} #头部设置，默认头部有时候会被网页反扒而出错
     try:
         resp = requests.get(url, headers=headers, proxies=proxies) #简单粗暴，.get(url)
+        requests.adapters.DEFAULT_RETRIES = 6
         html = resp.text #获取网页内容，字符串形式
         if resp.status_code >= 400: #异常处理，4xx客户端错误 返回None
             print('Download error:', resp.text)
@@ -52,7 +53,8 @@ def get_works(html):
     affiliation1 = affiliation2 = ''
     # print(type(affiliations))
     for item in affiliations:
-        aff_text = re.sub(r'\(.*?%\)', "", str(item))
+        aff_text=str(item).split('<br/>')[-1]
+        aff_text = re.sub(r'\(.*?%\)', "", str(aff_text))
         aff_text = re.sub(r'\<.*?\>', "", aff_text)
         aff_list.append(aff_text.strip())
         # print(aff_text.strip())
@@ -86,9 +88,9 @@ def get_works(html):
             published[i] =work_list[i]
 
     #写入economists.csv文件
-    writer=csv.writer(open('economists.csv', 'a', newline='', encoding='utf-8'))
+    writer=csv.writer(open('economists_detail.csv', 'a', newline='', encoding='utf-8'))
     writer.writerow([name, affiliation1, affiliation2, published[0], published[1], published[2],
-                        published[3], published[4], published[5], published[6], published[7],
+                       published[3], published[4], published[5], published[6], published[7],
                           published[8], published[9]])
 
 
@@ -96,5 +98,4 @@ file_read = open('ideas_url.txt',encoding='utf-8')
 for line in file_read.readlines():
     html = download(str(line).strip())
     get_works(html)
-
 
