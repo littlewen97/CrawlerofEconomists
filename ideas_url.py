@@ -34,30 +34,44 @@ def download(url, num_retries=2, user_agent='wswp', proxies=None):
     return html #返回html
 
 
-#获取经济学家的详情页面的url（前5%）
-def get_shorttop(html):
-    soup = BeautifulSoup(html, 'html.parser')
-    file_write = open("ideas_url.txt", 'w', encoding='UTF-8')
-    #获取经济学家对应的url
-    ideas_url = []
-    names = soup.select('.shorttop td:nth-child(2)>a:nth-child(1)')
-    for item in names:
-        #print("https://ideas.repec.org/"+item['href'])
-        file_write.write("https://ideas.repec.org"+item['href'])
-        file_write.write('\n')
-    print("shorttop url success!")
+# #获取经济学家的详情页面的url（前5%）
+# def get_shorttop(html):
+#     soup = BeautifulSoup(html, 'html.parser')
+#     file_write = open("ideas_url.txt", 'w', encoding='UTF-8')
+#     #获取经济学家对应的url
+#     ideas_url = []
+#     names = soup.select('.shorttop td:nth-child(2)>a:nth-child(1)')
+#     for item in names:
+#         #print("https://ideas.repec.org/"+item['href'])
+#         file_write.write("https://ideas.repec.org"+item['href'])
+#         file_write.write('\n')
+#     print("shorttop url success!")
+#
+# #获取经济学家详情页面的url（6%到10%）
+# def get_top6to10(html):
+#     soup = BeautifulSoup(html, 'html.parser')
+#     names = soup.select('#ranking>a')
+#
+#     with open("ideas_url.txt", "a") as file_write:
+#         for item in names:
+#             file_write.write("https://ideas.repec.org"+item['href'])
+#             file_write.write('\n')
+#     print("top6to1 url success!")
 
-#获取经济学家详情页面的url（6%到10%）
-def get_top6to10(html):
+def get_all(path,html):
     soup = BeautifulSoup(html, 'html.parser')
-    names = soup.select('#ranking>a')
+    url= soup.select(path)
+    get_url(url,"ideas_url_all.txt")
+    print(path+' finished')
 
-    with open("ideas_url.txt", "a") as file_write:
-        for item in names:
-            file_write.write("https://ideas.repec.org"+item['href'])
+def get_url(url,file):
+    with open(file, "a") as file_write:
+        for item in url:
+            file_write.write("https://ideas.repec.org" + item['href'])
             file_write.write('\n')
-    print("top6to1 url success!")
 
-html = download('https://ideas.repec.org/top/top.person.all.html')
-get_shorttop(html)
-get_top6to10(html)
+
+html = download('https://ideas.repec.org/i/eall.html')
+for i in range(5,56,2):
+    path="table:nth-child("+ str(i) +")>tr>td>a"
+    get_all(path,html)

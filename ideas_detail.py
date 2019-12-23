@@ -5,6 +5,8 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 
+
+
 def download(url, num_retries=2, user_agent='wswp', proxies=None):
     '''下载一个指定的URL并返回网页内容
         参数：
@@ -21,7 +23,7 @@ def download(url, num_retries=2, user_agent='wswp', proxies=None):
     print('Downloading:', url)
     headers = {'User-Agent': user_agent,'Connection':'close'} #头部设置，默认头部有时候会被网页反扒而出错
     try:
-        resp = requests.get(url, headers=headers, proxies=proxies) #简单粗暴，.get(url)
+        resp = requests.get(url, headers=headers, proxies=proxies)
         requests.adapters.DEFAULT_RETRIES = 6
         html = resp.text #获取网页内容，字符串形式
         if resp.status_code >= 400: #异常处理，4xx客户端错误 返回None
@@ -44,7 +46,7 @@ def get_works(html):
     name = soup.select('title')
     name = re.sub(r'\<.*?\>', "", str(name))
     name = ((str(name).split('|'))[0].strip())[1:]
-    print("姓名：" + name)
+    #print("姓名：" + name)
 
     #获取经济学家所属组织
     affiliations = soup.select("#affiliation > h3")
@@ -68,8 +70,8 @@ def get_works(html):
     else:
         affiliation1 = aff_list[0].strip('\t')
         affiliation2 = aff_list[1].strip('\t')
-    print("所属部门1：" + affiliation1)
-    print("所属部门2：" + affiliation2)
+    #print("所属部门1：" + affiliation1)
+    #print("所属部门2：" + affiliation2)
 
     #获取经济学家发表的文章（最多10个）
     work_list = []
@@ -87,15 +89,15 @@ def get_works(html):
         for i in range(len(work_list)):
             published[i] =work_list[i]
 
-    #写入economists.csv文件
-    writer=csv.writer(open('economists_detail.csv', 'a', newline='', encoding='utf-8'))
+    #写入economists_all.csv文件
+    writer=csv.writer(open('economists_all.csv', 'a', newline='', encoding='utf-8'))
     writer.writerow([name, affiliation1, affiliation2, published[0], published[1], published[2],
                        published[3], published[4], published[5], published[6], published[7],
                           published[8], published[9]])
 
 
-file_read = open('ideas_url.txt',encoding='utf-8')
+
+file_read = open('ideals_url_all.txt',encoding='utf-8')
 for line in file_read.readlines():
     html = download(str(line).strip())
     get_works(html)
-
