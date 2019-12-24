@@ -1,4 +1,4 @@
-# KnowledgeGraphofEconomists
+# CrawlerofEconomists
 课程作业：关于经济学家的知识图谱，这里主要是爬虫
 
 - baidubaikeSearch.py: 搜索economist.txt中的经济学家，保存url地址到baike_url.txt
